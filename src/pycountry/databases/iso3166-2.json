@@ -7317,6 +7317,36 @@
       "type": "Province"
     },
     {
+      "code": "DO-02-01",
+      "name": "Azua",
+      "parent": "02",
+      "type": "Borough"
+    },
+    {
+      "code": "DO-02-01-01",
+      "name": "Azua",
+      "parent": "02-01",
+      "type": "Municipal District"
+    },
+    {
+      "code": "DO-02-01-01-01",
+      "name": "Azua de Compostela (Zona urbana)",
+      "parent": "02-01-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-02-01-01-01-001",
+      "name": "Los Cartones",
+      "parent": "02-01-01-01",
+      "type": "Neighborhood"
+    },
+    {
+      "code": "DO-02-01-01-01-001-01",
+      "name": "Los Cartones",
+      "parent": "02-01-01-01-001",
+      "type": "Sub Neighborhood"
+    },
+    {
       "code": "DO-03",
       "name": "Baoruco",
       "type": "Province"
