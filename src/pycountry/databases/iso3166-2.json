@@ -5266,17 +5266,276 @@
       "type": "Sub Neighborhood"
     },
     {
-      "code": "DO-01-01-002",
+      "code": "DO-01-01-01-01-002",
       "name": "Palma Real",
-      "parent": "01-01",
-      "type": "Autonomous sector"
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
     },
     {
-      "code": "DO-01-01-003",
-      "name": "Arroyo Manzano",
-      "parent": "01-01",
-      "type": "Autonomous sector"
+      "code": "DO-01-01-01-01-002-01",
+      "name": "Palma Real",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
     },
+    {
+      "code": "DO-01-01-01-01-002-02",
+      "name": "Los Girasoles I",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-03",
+      "name": "Los Girasoles II",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-04",
+      "name": "Los Girasoles III",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-05",
+      "name": "Colinas de Arroyo Hondo",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-06",
+      "name": "Don Panchito",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-07",
+      "name": "Villa María",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-002-08",
+      "name": "Fundación",
+      "parent": "01-01-01-01-002",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-003",
+      "name": "Arroyo Manzano",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-003-01",
+      "name": "Arroyo Manzano",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-003-02",
+      "name": "La Meseta",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-03",
+      "name": "Villa Progreso",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-04",
+      "name": "Cuesta Brava",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-05",
+      "name": "Urbanización Arroyo Manzano",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-06",
+      "name": "Buena Vista",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-07",
+      "name": "Puerta de Hierro",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-08",
+      "name": "Madre Vieja",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-09",
+      "name": "Residencial Colina Bella",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-10",
+      "name": "Residencial Irene",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-003-11",
+      "name": "Residencial San Francisco de Asís",
+      "parent": "01-01-01-01-003",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-004",
+      "name": "Altos de Arroyo Hondo",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-004-01",
+      "name": "Altos de Arroyo Hondo",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-02",
+      "name": "Ciudad Real",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-03",
+      "name": "Carmen María",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-04",
+      "name": "Reparto Miguelina",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-05",
+      "name": "Villa Claudia",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-06",
+      "name": "Villa Isabel",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-07",
+      "name": "Villa Amanda",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-08",
+      "name": "La Ceiba",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-09",
+      "name": "Kilómetro XI",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-10",
+      "name": "Residencial Condado",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-11",
+      "name": "Don Honorio",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-12",
+      "name": "Pinos Norte",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-13",
+      "name": "Los Guayuyos",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-14",
+      "name": "El Ducado",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-15",
+      "name": "Las Colinas del Seminario I",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-16",
+      "name": "Las Ochocientas",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-17",
+      "name": "Mirador de Girasoles",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-18",
+      "name": "Residencial Madelaine",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-19",
+      "name": "Residencial Nueva Terraza",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-20",
+      "name": "Residencial Amapola",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-004-21",
+      "name": "Ciudad Real II",
+      "parent": "01-01-01-01-004",
+      "type": "Sub Neighborhood"
+    },  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+
     {
       "code": "DO-01-01-004",
       "name": "Altos de Arroyo Hondo",
