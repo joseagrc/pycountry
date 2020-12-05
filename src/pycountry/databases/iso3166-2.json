@@ -5230,10 +5230,40 @@
       "type": "Borough"
     },
     {
-      "code": "DO-01-01-001",
-      "name": "Los Peralejos",
+      "code": "DO-01-01-01",
+      "name": "Santo Domingo de Guzmán",
       "parent": "01-01",
-      "type": "Autonomous sector"
+      "type": "Municipal District"
+    },
+    {
+      "code": "DO-01-01-01-01",
+      "name": "Santo Domingo de Guzmán (Zona urbana)",
+      "parent": "01-01-01",
+      "type": "Section"
+    },
+    {
+      "code": "DO-01-01-01-01-001",
+      "name": "Los Peralejos",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-001-01",
+      "name": "Los Peralejos",
+      "parent": "01-01-01-01-001",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-001-02",
+      "name": "Los Ángeles",
+      "parent": "01-01-01-01-001",
+      "type": "Sub Neighborhood"
+    },
+    {
+      "code": "DO-01-01-01-01-001-03",
+      "name": "Brisas del Norte",
+      "parent": "01-01-01-01-001",
+      "type": "Sub Neighborhood"
     },
     {
       "code": "DO-01-01-002",
@@ -6781,7 +6811,7 @@
     },
     {
       "code": "EG-HU",
-      "name": "Ḩulwān",
+      "name": "Ḩulwān",
       "type": "Governorate"
     },
     {
@@ -14974,7 +15004,7 @@
     },
     {
       "code": "LY-WA",
-      "name": "Al Wāḩāt",
+      "name": "Al Wāḩāt",
       "type": "Popularates"
     },
     {
@@ -22978,12 +23008,12 @@
     },
     {
       "code": "TD-BA",
-      "name": "Al Baṭḩah",
+      "name": "Al Baṭḩah",
       "type": "Region"
     },
     {
       "code": "TD-BG",
-      "name": "Baḩr al Ghazāl",
+      "name": "Baḩr al Ghazāl",
       "type": "Region"
     },
     {
@@ -23018,7 +23048,7 @@
     },
     {
       "code": "TD-LC",
-      "name": "Al Buḩayrah",
+      "name": "Al Buḩayrah",
       "type": "Region"
     },
     {
@@ -26233,7 +26263,7 @@
     },
     {
       "code": "YE-DA",
-      "name": "Aḑ Ḑāli‘",
+      "name": "Aḑ Ḑāli‘",
       "type": "Governorate"
     },
     {
