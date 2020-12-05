@@ -6123,6 +6123,241 @@
       "parent": "01-01-01-01-020",
       "type": "Sub Neighborhood"
     },         
+    {
+      "code": "DO-01-01-01-01-021",
+      "name": "Los Prados",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-021-01",
+      "name": "Los Prados",
+      "parent": "01-01-01-01-021",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-021-02",
+      "name": "La Castellana",
+      "parent": "01-01-01-01-021",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-022",
+      "name": "El Millón",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-022-01",
+      "name": "El Millón",
+      "parent": "01-01-01-01-022",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-023",
+      "name": "Mirador Norte",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-023-01",
+      "name": "Mirador Norte",
+      "parent": "01-01-01-01-023",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-024",
+      "name": "Mirador Sur",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-024-01",
+      "name": "Mirador Sur",
+      "parent": "01-01-01-01-024",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-024-02",
+      "name": "Los Maestros",
+      "parent": "01-01-01-01-024",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-025",
+      "name": "Buenos Aires Mirador",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-025-01",
+      "name": "Buenos Aires Mirador",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-025-02",
+      "name": "María Josefina",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-03",
+      "name": "Enriquillo",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-04",
+      "name": "San Gabriel",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-05",
+      "name": "Marién",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-06",
+      "name": "Ofelia",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-07",
+      "name": "Nordesa I",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-08",
+      "name": "Semillero",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-09",
+      "name": "San Miguel",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-10",
+      "name": "Enriquillo",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-11",
+      "name": "Alfimar",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-025-12",
+      "name": "Enriquillo III",
+      "parent": "01-01-01-01-025",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-026",
+      "name": "Miramar",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-026-01",
+      "name": "Miramar",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    }, 
+    {
+      "code": "DO-01-01-01-01-026-02",
+      "name": "Velazcasa",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-03",
+      "name": "Gildamar",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-04",
+      "name": "Costa Caribe",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-05",
+      "name": "Beta",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-06",
+      "name": "Solimar",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-07",
+      "name": "Urbanización Independencia",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-026-08",
+      "name": "Nordesa III",
+      "parent": "01-01-01-01-026",
+      "type": "Sub Neighborhood"
+    },     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
