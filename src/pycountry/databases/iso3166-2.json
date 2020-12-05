@@ -6387,62 +6387,930 @@
       "parent": "01-01-01-01-028",
       "type": "Sub Neighborhood"
     },      
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-    
+    {
+      "code": "DO-01-01-01-01-029",
+      "name": "Atala",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-029-01",
+      "name": "Atala",
+      "parent": "01-01-01-01-029",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-029-02",
+      "name": "Roca del Mar",
+      "parent": "01-01-01-01-029",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-029-03",
+      "name": "Kg",
+      "parent": "01-01-01-01-029",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-029-04",
+      "name": "El Portal",
+      "parent": "01-01-01-01-029",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-030",
+      "name": "Bella Vista",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-030-01",
+      "name": "Bella Vista",
+      "parent": "01-01-01-01-030",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-030-02",
+      "name": "El Semillero",
+      "parent": "01-01-01-01-030",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-030-03",
+      "name": "Chichiguao",
+      "parent": "01-01-01-01-030",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-030-04",
+      "name": "Los Jardines del Embajador",
+      "parent": "01-01-01-01-030",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-031",
+      "name": "Quisqueya",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-031-01",
+      "name": "Quisqueya",
+      "parent": "01-01-01-01-031",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-031-02",
+      "name": "Evaristo Morales",
+      "parent": "01-01-01-01-031",
+      "type": "Sub Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-032",
+      "name": "Piantini",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-032-01",
+      "name": "Piantini",
+      "parent": "01-01-01-01-032",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-032-02",
+      "name": "Ensanche Serrallés",
+      "parent": "01-01-01-01-032",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-033",
+      "name": "La Julia",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-033-01",
+      "name": "La Julia",
+      "parent": "01-01-01-01-033",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-033-02",
+      "name": "Seminario",
+      "parent": "01-01-01-01-033",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-033-03",
+      "name": "El Manguito",
+      "parent": "01-01-01-01-033",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-034",
+      "name": "Nuestra Señora de La Paz",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-034-01",
+      "name": "Nuestra Señora de La Paz",
+      "parent": "01-01-01-01-034",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-035",
+      "name": "General Antonio Duvergé",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-035-01",
+      "name": "General Antonio Duvergé",
+      "parent": "01-01-01-01-035",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-035-02",
+      "name": "Honduras",
+      "parent": "01-01-01-01-035",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-035-03",
+      "name": "Maripili",
+      "parent": "01-01-01-01-035",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-036",
+      "name": "30 de Mayo",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-036-01",
+      "name": "30 de Mayo",
+      "parent": "01-01-01-01-036",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-036-02",
+      "name": "Villa Alejandrina II",
+      "parent": "01-01-01-01-036",
+      "type": "Sub Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-036-03",
+      "name": "Las Piedras",
+      "parent": "01-01-01-01-036",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-037",
+      "name": "Cacique",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-037-01",
+      "name": "Brisa del Mar",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },            
+    {
+      "code": "DO-01-01-01-01-037-02",
+      "name": "Mar Azul",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-03",
+      "name": "Plaza",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-04",
+      "name": "Cq I",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-05",
+      "name": "Cq 2",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-06",
+      "name": "Cq 3",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-07",
+      "name": "Antillas",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-037-08",
+      "name": "Costa Brava",
+      "parent": "01-01-01-01-037",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-038",
+      "name": "Centro de Los Héroes",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-038-01",
+      "name": "Centro de Los Héroes",
+      "parent": "01-01-01-01-038",
+      "type": "Sub Neighborhood"
+    },                                  
+    {
+      "code": "DO-01-01-01-01-039",
+      "name": "Mata Hambre",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-039-01",
+      "name": "Mata Hambre",
+      "parent": "01-01-01-01-039",
+      "type": "Sub Neighborhood"
+    },           
+    {
+      "code": "DO-01-01-01-01-039-02",
+      "name": "La Feria",
+      "parent": "01-01-01-01-039",
+      "type": "Sub Neighborhood"
+    },           
+    {
+      "code": "DO-01-01-01-01-040",
+      "name": "Ciudad Universitaria",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-040-01",
+      "name": "Ciudad Universitaria",
+      "parent": "01-01-01-01-040",
+      "type": "Sub Neighborhood"
+    },           
+    {
+      "code": "DO-01-01-01-01-040-02",
+      "name": "La Julia",
+      "parent": "01-01-01-01-040",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-041",
+      "name": "La Esperilla",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-041-01",
+      "name": "La Esperilla",
+      "parent": "01-01-01-01-041",
+      "type": "Sub Neighborhood"
+    },           
+    {
+      "code": "DO-01-01-01-01-041-02",
+      "name": "El Vergel",
+      "parent": "01-01-01-01-041",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-042",
+      "name": "Ensanche Naco",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-042-01",
+      "name": "Ensanche Naco",
+      "parent": "01-01-01-01-042",
+      "type": "Sub Neighborhood"
+    },           
+    {
+      "code": "DO-01-01-01-01-042-02",
+      "name": "La Yuca",
+      "parent": "01-01-01-01-042",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-043",
+      "name": "Centro Olímpico Juan Pablo Duarte",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-043-01",
+      "name": "Centro Olímpico Juan Pablo Duarte",
+      "parent": "01-01-01-01-043",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-044",
+      "name": "La Fe",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-044-01",
+      "name": "La Fe",
+      "parent": "01-01-01-01-044",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-044-02",
+      "name": "Cachimán",
+      "parent": "01-01-01-01-044",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-044-03",
+      "name": "Ensanche Kennedy",
+      "parent": "01-01-01-01-044",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-045",
+      "name": "La Agustina",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-045-01",
+      "name": "La Agustina",
+      "parent": "01-01-01-01-045",
+      "type": "Sub Neighborhood"
+    },         
+    {
+      "code": "DO-01-01-01-01-045-02",
+      "name": "La Cementera",
+      "parent": "01-01-01-01-045",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-045-03",
+      "name": "Lanna Gautier",
+      "parent": "01-01-01-01-045",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-045-04",
+      "name": "La Agustinita",
+      "parent": "01-01-01-01-045",
+      "type": "Sub Neighborhood"
+    },            
+    {
+      "code": "DO-01-01-01-01-046",
+      "name": "Cristo Rey",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-046-01",
+      "name": "Cristo Rey",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-046-02",
+      "name": "El Caliche",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-046-03",
+      "name": "Las Flores",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-046-04",
+      "name": "Paravel",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },          
+    {
+      "code": "DO-01-01-01-01-046-05",
+      "name": "Residencial Ortega y Gasset",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-046-06",
+      "name": "El Yaquito",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-046-07",
+      "name": "La 40",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-046-08",
+      "name": "La Lechuga",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-046-09",
+      "name": "La Chivera",
+      "parent": "01-01-01-01-046",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-047",
+      "name": "Jardín Zoológico",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-047-01",
+      "name": "Jardín Zoológico",
+      "parent": "01-01-01-01-047",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-048",
+      "name": "La Zurza",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-048-01",
+      "name": "La Zurza",
+      "parent": "01-01-01-01-048",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-048-02",
+      "name": "Residencial Rivera de la Isabela",
+      "parent": "01-01-01-01-048",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-048-03",
+      "name": "Los Coquitos",
+      "parent": "01-01-01-01-048",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-049",
+      "name": "Villas Agrícolas",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-049-01",
+      "name": "Villas Agrícolas",
+      "parent": "01-01-01-01-049",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-049-02",
+      "name": "Proyecto Habitacional La Zurza",
+      "parent": "01-01-01-01-049",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-049-03",
+      "name": "La Laguna",
+      "parent": "01-01-01-01-049",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-050",
+      "name": "Villa Juana",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-050-01",
+      "name": "Villa Juana",
+      "parent": "01-01-01-01-050",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-050-02",
+      "name": "El Ensanchito",
+      "parent": "01-01-01-01-050",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-051",
+      "name": "Miraflores",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-051-01",
+      "name": "Miraflores",
+      "parent": "01-01-01-01-051",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-052",
+      "name": "San Juan Bosco",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-052-01",
+      "name": "San Juan Bosco",
+      "parent": "01-01-01-01-052",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-053",
+      "name": "Gascue",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-053-01",
+      "name": "Gascue",
+      "parent": "01-01-01-01-053",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-053-02",
+      "name": "Reparto Aguedita",
+      "parent": "01-01-01-01-053",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-053-03",
+      "name": "Ensanche Independencia",
+      "parent": "01-01-01-01-053",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-053-04",
+      "name": "La Primavera",
+      "parent": "01-01-01-01-053",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-053-05",
+      "name": "Ensanche Lugo",
+      "parent": "01-01-01-01-053",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-054",
+      "name": "Ciudad Nueva",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-054-01",
+      "name": "Ciudad Nueva",
+      "parent": "01-01-01-01-054",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-055",
+      "name": "San Carlos",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-055-01",
+      "name": "San Carlos",
+      "parent": "01-01-01-01-055",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-056",
+      "name": "Villa Consuelo",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-056-01",
+      "name": "Villa Consuelo",
+      "parent": "01-01-01-01-056",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-056-02",
+      "name": "Villa María",
+      "parent": "01-01-01-01-056",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-057",
+      "name": "Ensanche Luperón",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-057-01",
+      "name": "Ensanche Luperón",
+      "parent": "01-01-01-01-057",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-057-02",
+      "name": "Libertad",
+      "parent": "01-01-01-01-057",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-057-03",
+      "name": "Villa Colores",
+      "parent": "01-01-01-01-057",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-058",
+      "name": "Ensanche Capotillo",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-058-01",
+      "name": "Ensanche Capotillo",
+      "parent": "01-01-01-01-058",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-058-02",
+      "name": "Los Manguitos",
+      "parent": "01-01-01-01-058",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-058-03",
+      "name": "La Caridad",
+      "parent": "01-01-01-01-058",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-059",
+      "name": "Simón Bolívar",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-059-01",
+      "name": "Simón Bolívar",
+      "parent": "01-01-01-01-059",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-059-02",
+      "name": "Las Cañitas",
+      "parent": "01-01-01-01-059",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-060",
+      "name": "24 de Abril",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-060-01",
+      "name": "24 de Abril",
+      "parent": "01-01-01-01-060",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-060-02",
+      "name": "Las Cañitas",
+      "parent": "01-01-01-01-060",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-061",
+      "name": "Ensanche Espaillat",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-061-01",
+      "name": "Ensanche Espaillat",
+      "parent": "01-01-01-01-061",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062",
+      "name": "María Auxiliadora",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-062-01",
+      "name": "María Auxiliadora",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062-02",
+      "name": "27 de Febrero",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062-03",
+      "name": "Domingo Savio",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062-04",
+      "name": "Guachupita",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062-05",
+      "name": "San Martín de Porres",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-062-06",
+      "name": "Loma del Chivo",
+      "parent": "01-01-01-01-062",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-063",
+      "name": "Mejoramiento Social",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-063-01",
+      "name": "Mejoramiento Social",
+      "parent": "01-01-01-01-063",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-063-02",
+      "name": "Villa Fontana",
+      "parent": "01-01-01-01-063",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-063-03",
+      "name": "Samaná",
+      "parent": "01-01-01-01-063",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-063-04",
+      "name": "La Fuente",
+      "parent": "01-01-01-01-063",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-063-05",
+      "name": "Villa María",
+      "parent": "01-01-01-01-063",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-064",
+      "name": "Villa Francisca",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-064-01",
+      "name": "Villa Francisca",
+      "parent": "01-01-01-01-064",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-064-02",
+      "name": "Borojol",
+      "parent": "01-01-01-01-064",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-065",
+      "name": "Ciudad Colonial",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-065-01",
+      "name": "Ciudad Colonial",
+      "parent": "01-01-01-01-065",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-065-02",
+      "name": "San Miguel",
+      "parent": "01-01-01-01-065",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-065-03",
+      "name": "Santa Bárbara",
+      "parent": "01-01-01-01-065",
+      "type": "Sub Neighborhood"
+    },  
+    {
+      "code": "DO-01-01-01-01-065-04",
+      "name": "San Lázaro",
+      "parent": "01-01-01-01-065",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-065-05",
+      "name": "La Atarazana",
+      "parent": "01-01-01-01-065",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-066",
+      "name": "Domingo Savio",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-066-01",
+      "name": "Los Guandules",
+      "parent": "01-01-01-01-066",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-066-02",
+      "name": "La Ciénaga",
+      "parent": "01-01-01-01-066",
+      "type": "Sub Neighborhood"
+    },   
+    {
+      "code": "DO-01-01-01-01-066-03",
+      "name": "Guachupita",
+      "parent": "01-01-01-01-066",
+      "type": "Sub Neighborhood"
+    },      
+    {
+      "code": "DO-01-01-01-01-067",
+      "name": "Gualey",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-067-01",
+      "name": "Gualey",
+      "parent": "01-01-01-01-067",
+      "type": "Sub Neighborhood"
+    },       
+    {
+      "code": "DO-01-01-01-01-068",
+      "name": "La Isabela",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-068-01",
+      "name": "La Isabela",
+      "parent": "01-01-01-01-068",
+      "type": "Sub Neighborhood"
+    },        
+    {
+      "code": "DO-01-01-01-01-069",
+      "name": "La Hondonada",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-069-01",
+      "name": "La Hondonada",
+      "parent": "01-01-01-01-069",
+      "type": "Sub Neighborhood"
+    },     
+    {
+      "code": "DO-01-01-01-01-070",
+      "name": "San Diego",
+      "parent": "01-01-01-01",
+      "type": "Neighborhood"
+    },    
+    {
+      "code": "DO-01-01-01-01-070-01",
+      "name": "San Diego",
+      "parent": "01-01-01-01-070",
+      "type": "Sub Neighborhood"
+    },       
     {
       "code": "DO-02",
       "name": "Azua",
